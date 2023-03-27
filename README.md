@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Koushik Modekurti<br>🔭 I'm currently working on the Deep Learning Graph Neural Networks<br>🌱 A MSDA Grad Student from San Jose State<br>👯 I’m looking to collaborate on the Traffic Forecasting with Spatio-Temporal Graph Neural Networks<br>💬 Ask me about DL and Data Engineering<br>😄 He/Him<br>⚡ Catch you on Hikes and jaunting Treks
+Hi there, I'm Koushik Modekurti<br>🌱 A MSDA Grad Student from San Jose State<br>🔭 Currently working on the Deep Learning Graph Neural Networks<br>👯 Looking to collaborate on the Traffic Forecasting with Spatio-Temporal Graph Neural Networks<br>💬 Ask me about DL and Data Engineering<br>😄 He/Him<br>⚡ Catch you on Hikes and jaunting Treks
 
 
 ## 🌐 Socials:
