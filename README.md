@@ -9,6 +9,15 @@ Hi there! 👋 I'm **Koushik Modekurti**, a Data Engineer with over 3 years of e
 - 🔍 **Advanced Analytics**: Experienced in creating impactful dashboards and reports using Tableau, QuickSight, and Looker.
 - 🛠️ **Big Data Solutions**: Hands-on with Hadoop, Spark, PySpark, and Hive for processing large-scale datasets.
 
+## 🌟 Companies I've Worked At:
+
+[![Encored](https://img.shields.io/badge/Encored%20Inc.-%23005A9C.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)](https://www.encoredtech.com/)  
+[![Tesla](https://img.shields.io/badge/Tesla-%23CC0000.svg?style=for-the-badge&logo=tesla&logoColor=white)](https://www.tesla.com/)  
+[![City & County of SF](https://img.shields.io/badge/City%20%26%20County%20of%20San%20Francisco-%2300599C.svg?style=for-the-badge)](https://sfgov.org/)  
+[![L&T Construction](https://img.shields.io/badge/L&T%20Construction-%230072C6.svg?style=for-the-badge)](https://www.lntecc.com/)  
+[![Umang Solutions](https://img.shields.io/badge/Umang%20Solutions-%2300A36C.svg?style=for-the-badge)]()
+
+
 ---
 
 ## 🌐 Socials:
